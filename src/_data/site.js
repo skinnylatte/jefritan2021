@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Jefri-Tan Family blog',
+  title: 'Jefri-Tan Family',
   description: 'Chronicles of a queer family in California',
   keywords: ['eleventy', 'template', 'simple', 'clean'],
   // your site url without trailing slash
