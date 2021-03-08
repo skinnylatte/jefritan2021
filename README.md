@@ -40,4 +40,3 @@ npm run debug
 
 ## Configuration
 To change the title, description, author data, menu/nav item, etc, go to `src/_data/`.
-# Jefri-Tan Family Blog 2021
