@@ -1,7 +1,6 @@
-# Vredeburg
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d36fc9-4471-4679-902c-337449ccb59d/deploy-status)](https://app.netlify.com/sites/vredeburg/deploys)
+# Jefri-Tan Family Blog
 
-A simple starter project to create a blog using Eleventy and Tailwind CSS
+A simple starter project to create a blog using Eleventy and Tailwind CSS for my family blog based on the [Vredeburg](https://vredeburg.netlify.app) theme!
 
 <details>
   <summary>Screenshot</summary>
@@ -9,7 +8,6 @@ A simple starter project to create a blog using Eleventy and Tailwind CSS
   ![](https://i.imgur.com/wGj2YZD.jpg)
 </details>
 
-See demo [here](https://vredeburg.netlify.app)!
 
 ## Getting Started
 1. Clone this repository
